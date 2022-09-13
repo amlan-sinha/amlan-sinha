@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @amlan-sinha
-- 👀 I’m interested in dynamical systems, control theory and optimization.
-- 💞️ I’m looking to collaborate on online learning and optimal control problems.
 - 📫 You can reach me at amlans@princeton.edu
 
 <!---
