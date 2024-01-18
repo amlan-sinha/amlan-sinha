@@ -6,22 +6,16 @@ Hi there 👋 I'm Amlan Sinha!
 
 [//]: # (Introduce yourself briefly. Mention your interests, professional background, or any personal projects you're passionate about.)
 
-🚀 About Amlan:
-Amlan is a Ph.D. candidate in Mechanical and Aerospace Engineering at Princeton University, where he specializes in dynamical systems, optimal control theory, and optimization. His research is driven by a passion for autonomous systems and their applications in uncertain environments. Amlan is currently developing a cutting-edge algorithmic framework to enhance the robustness and efficiency of autonomous systems under actuator losses.
+🚀 About Me:
+I am an aspiring Ph.D. candidate in Mechanical and Aerospace Engineering at Princeton University, specializing in dynamical systems, control theory, and optimization. Currently, I am developing an algorithmic framework designed to enhance the robustness and efficiency of autonomous systems under operational uncertainty.
 
 💡 Research & Experience:
-His work involves creating innovative control algorithms for autonomous systems, ensuring their effective operation in unpredictable conditions. His thesis is focused on low-thrust spacecraft trajectories with robustness guarantees against partial engine failures, a project with far-reaching implications for space exploration and technology.
+My thesis centers on designing low-thrust spacecraft trajectories with robustness guarantees against partial engine failures, which has significant implications for space exploration and technology. 
 
-In parallel to his academic pursuits, Amlan has mastered skills in C++, Python, and Matlab, and has a solid grounding in Dynamical Systems, Optimal Control Theory, and Optimization. His professional experience includes obtaining significant federal funding for collaborative research and mentoring students in academic and research capacities.
+I am proficient in C++, Python, and Matlab, and have a strong foundation in Dynamical Systems, Optimal Control Theory, and Optimization.
 
-🌟 Accomplishments & Leadership:
-Recognized with awards such as the NASA ROSES Research Grant, Amlan has a proven track record in grant applications and publications. His leadership extends beyond research, as seen in his active involvement in the Princeton Graduate Consulting Club and other initiatives, demonstrating his dedication to community and sustainable practices.
-
-🔍 Future Aspirations:
-As he approaches the completion of his Ph.D., Amlan is actively seeking management consulting opportunities. He is particularly interested in roles that allow him to employ his technical and interpersonal skills in a consulting environment, assisting organizations in navigating the complexities of technological innovation.
-
-📫 Connect with Amlan:
-For potential collaborations, consulting opportunities, or to learn more about his research, Amlan can be reached at amlans@princeton.edu. He is always open to exploring new ideas and perspectives in the field of advanced engineering and technology.
+📫 Connect With Me:
+Feel free to reach out at amlans@princeton.edu to discuss potential collaborations or to learn more about my research.
 
 ## My GitHub Statistics
 
