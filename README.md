@@ -7,12 +7,12 @@ Hi there 👋 I'm Amlan Sinha!
 [//]: # (Introduce yourself briefly. Mention your interests, professional background, or any personal projects you're passionate about.)
 
 🚀 About Me:
-I am an aspiring Ph.D. candidate in Mechanical and Aerospace Engineering at Princeton University, specializing in dynamical systems, control theory, and optimization. Currently, I am developing an algorithmic framework designed to enhance the robustness and efficiency of autonomous systems under operational uncertainty.
+I am an aerospace engineering Ph.D. candidate at Princeton University, specializing in dynamical systems, optimal control, and optimization. Currently, I am working on developing a theoretical and algorithmic framework to enhance the robustness and efficiency of autonomous systems under operational uncertainty.
 
 💡 Research & Experience:
-My thesis centers on designing low-thrust spacecraft trajectories with robustness guarantees against partial engine failures, which has significant implications for space exploration and technology. 
+My thesis centers on designing low-thrust spacecraft trajectories with robustness guarantees against partial engine failures, which has significant implications for future space technology ranging from small technology demonstration missions to large strategic science missions. 
 
-I am proficient in C++, Python, and Matlab, and have a strong foundation in Dynamical Systems, Optimal Control Theory, and Optimization.
+I am proficient in C++, Python, and Matlab, and have a strong foundation in Dynamical Systems, Optimal Control, and Optimization.
 
 📫 Connect With Me:
 Feel free to reach out at amlans@princeton.edu to discuss potential collaborations or to learn more about my research.
